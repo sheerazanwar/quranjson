@@ -1,4 +1,4 @@
-const MalayTranslation = {
+const IndonationTranslation = {
   "100": require("./id_translation_100.json"),
   "101": require("./id_translation_101.json"),
   "102": require("./id_translation_102.json"),
@@ -114,4 +114,4 @@ const MalayTranslation = {
   "098": require("./id_translation_98.json"),
   "099": require("./id_translation_99.json")
 };
-export default MalayTranslation;
+export default IndonationTranslation;
