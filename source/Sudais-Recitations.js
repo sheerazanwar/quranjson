@@ -1,5 +1,5 @@
-[
-    {
+const Recitation = {
+    "001":{
         "versesBreakPoints": [
             "3371",
             "6454",
@@ -12,7 +12,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/001.mp3"
     },
-    {
+    "002":{
         "versesBreakPoints": [
             "6411",
             "36789",
@@ -194,7 +194,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/002.mp3"
     },
-    {
+    "003":{
         "versesBreakPoints": [
             "3848",
             "10996",
@@ -400,7 +400,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/003.mp3"
     },
-    {
+    "004":{
         "versesBreakPoints": [
             "2419",
             "9463",
@@ -692,7 +692,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/004.mp3"
     },
-    {
+    "005":{
         "versesBreakPoints": [
             "2726",
             "22132",
@@ -818,7 +818,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/005.mp3"
     },
-    {
+    "006":{
         "versesBreakPoints": [
             "2768",
             "23971",
@@ -899,7 +899,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/006.mp3"
     },
-    {
+    "007":{
         "versesBreakPoints": [
             "3039",
             "14026",
@@ -1070,7 +1070,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/007.mp3"
     },
-    {
+    "008":{
         "versesBreakPoints": [
             "3318",
             "13690",
@@ -1205,7 +1205,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/008.mp3"
     },
-    {
+    "009":{
         "versesBreakPoints": [
             "6045",
             "17345",
@@ -1334,7 +1334,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/009.mp3"
     },
-    {
+    "010":{
         "versesBreakPoints": [
             "2098",
             "10940",
@@ -1449,7 +1449,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3"
     },
-    {
+    "011":{
         "versesBreakPoints": [
             "3620",
             "11593",
@@ -1566,7 +1566,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/011.mp3"
     },
-    {
+    "012":{
         "versesBreakPoints": [
             "3868",
             "26981",
@@ -1615,7 +1615,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/012.mp3"
     },
-    {
+    "013":{
         "versesBreakPoints": [
             "6100",
             "24000",
@@ -1673,7 +1673,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/013.mp3"
     },
-    {
+    "014":{
         "versesBreakPoints": [
             "6241",
             "16682",
@@ -1885,7 +1885,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/014.mp3"
     },
-    {
+    "015":{
         "versesBreakPoints": [
             "3865",
             "14092",
@@ -1990,7 +1990,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/015.mp3"
     },
-    {
+    "016":{
         "versesBreakPoints": [
             "3644",
             "13791",
@@ -2124,7 +2124,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/016.mp3"
     },
-    {
+    "017":{
         "versesBreakPoints": [
             "3574",
             "25139",
@@ -2241,7 +2241,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/017.mp3"
     },
-    {
+    "018":{
         "versesBreakPoints": [
             "6196",
             "14137",
@@ -2357,7 +2357,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/018.mp3"
     },
-    {
+    "019":{
         "versesBreakPoints": [
             "3732",
             "13173",
@@ -2461,7 +2461,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/019.mp3"
     },
-    {
+    "020":{
         "versesBreakPoints": [
             "3622",
             "5011",
@@ -2602,7 +2602,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/020.mp3"
     },
-    {
+    "021":{
         "versesBreakPoints": [
             "3509",
             "10758",
@@ -2720,7 +2720,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/021.mp3"
     },
-    {
+    "022":{
         "versesBreakPoints": [
             "5991",
             "15118",
@@ -2804,7 +2804,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/022.mp3"
     },
-    {
+    "023":{
         "versesBreakPoints": [
             "3688",
             "6400",
@@ -2928,7 +2928,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/023.mp3"
     },
-    {
+    "024":{
         "versesBreakPoints": [
             "3711",
             "13548",
@@ -3011,7 +3011,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/024.mp3"
     },
-    {
+    "025":{
         "versesBreakPoints": [
             "3906",
             "13655",
@@ -3081,7 +3081,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/025.mp3"
     },
-    {
+    "026":{
         "versesBreakPoints": [
             "6257",
             "12196",
@@ -3314,7 +3314,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/026.mp3"
     },
-    {
+    "027":{
         "versesBreakPoints": [
             "3653",
             "12969",
@@ -3413,7 +3413,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/027.mp3"
     },
-    {
+    "028":{
         "versesBreakPoints": [
             "3672",
             "10235",
@@ -3507,7 +3507,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/028.mp3"
     },
-    {
+    "029":{
         "versesBreakPoints": [
             "2367",
             "9333",
@@ -3573,7 +3573,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/029.mp3"
     },
-    {
+    "030":{
         "versesBreakPoints": [
             "3585",
             "12086",
@@ -3613,7 +3613,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/030.mp3"
     },
-    {
+    "031":{
         "versesBreakPoints": [
             "3555",
             "9433",
@@ -3649,7 +3649,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/031.mp3"
     },
-    {
+    "032":{
         "versesBreakPoints": [
             "3646",
             "15646",
@@ -3728,7 +3728,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/032.mp3"
     },
-    {
+    "033":{
         "versesBreakPoints": [
             "3795",
             "10856",
@@ -3803,7 +3803,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/033.mp3"
     },
-    {
+    "034":{
         "versesBreakPoints": [
             "3526",
             "24839",
@@ -3854,7 +3854,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/034.mp3"
     },
-    {
+    "035":{
         "versesBreakPoints": [
             "6771",
             "10111",
@@ -3943,7 +3943,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/035.mp3"
     },
-    {
+    "036":{
         "versesBreakPoints": [
             "3453",
             "10393",
@@ -4131,7 +4131,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/036.mp3"
     },
-    {
+    "037":{
         "versesBreakPoints": [
             "3693",
             "10256",
@@ -4225,7 +4225,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/037.mp3"
     },
-    {
+    "038":{
         "versesBreakPoints": [
             "6575",
             "9997",
@@ -4285,7 +4285,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/038.mp3"
     },
-    {
+    "039":{
         "versesBreakPoints": [
             "3619",
             "9368",
@@ -4366,7 +4366,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/039.mp3"
     },
-    {
+    "040":{
         "versesBreakPoints": [
             "3747",
             "7000",
@@ -4457,7 +4457,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/040.mp3"
     },
-    {
+    "041":{
         "versesBreakPoints": [
             "3428",
             "7677",
@@ -4516,7 +4516,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/041.mp3"
     },
-    {
+    "042":{
         "versesBreakPoints": [
             "3422",
             "7515",
@@ -4559,7 +4559,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/042.mp3"
     },
-    {
+    "043":{
         "versesBreakPoints": [
             "3677",
             "8679",
@@ -4654,7 +4654,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/043.mp3"
     },
-    {
+    "044":{
         "versesBreakPoints": [
             "3719",
             "7532",
@@ -4695,7 +4695,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/044.mp3"
     },
-    {
+    "045":{
         "versesBreakPoints": [
             "3797",
             "8109",
@@ -4760,7 +4760,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/045.mp3"
     },
-    {
+    "046":{
         "versesBreakPoints": [
             "3631",
             "10444",
@@ -4804,7 +4804,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/046.mp3"
     },
-    {
+    "047":{
         "versesBreakPoints": [
             "3841",
             "7617",
@@ -4839,7 +4839,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/047.mp3"
     },
-    {
+    "048":{
         "versesBreakPoints": [
             "4043",
             "11482",
@@ -4890,7 +4890,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/048.mp3"
     },
-    {
+    "049":{
         "versesBreakPoints": [
             "3727",
             "16478",
@@ -4914,7 +4914,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/049.mp3"
     },
-    {
+    "050":{
         "versesBreakPoints": [
             "3710",
             "6227",
@@ -4980,7 +4980,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/050.mp3"
     },
-    {
+    "051":{
         "versesBreakPoints": [
             "3749",
             "4862",
@@ -5035,7 +5035,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/051.mp3"
     },
-    {
+    "052":{
         "versesBreakPoints": [
             "3673",
             "7675",
@@ -5103,7 +5103,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/052.mp3"
     },
-    {
+    "053":{
         "versesBreakPoints": [
             "3348",
             "7976",
@@ -5164,7 +5164,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/053.mp3"
     },
-    {
+    "054":{
         "versesBreakPoints": [
             "3352",
             "7042",
@@ -5248,7 +5248,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/054.mp3"
     },
-    {
+    "055":{
         "versesBreakPoints": [
             "3302",
             "9991",
@@ -5283,7 +5283,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/055.mp3"
     },
-    {
+    "056":{
         "versesBreakPoints": [
             "3272",
             "5894",
@@ -5385,7 +5385,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/056.mp3"
     },
-    {
+    "057":{
         "versesBreakPoints": [
             "14742",
             "38804",
@@ -5412,7 +5412,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/057.mp3"
     },
-    {
+    "058":{
         "versesBreakPoints": [
             "3800",
             "12237",
@@ -5442,7 +5442,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/058.mp3"
     },
-    {
+    "059":{
         "versesBreakPoints": [
             "3821",
             "63012",
@@ -5461,7 +5461,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/059.mp3"
     },
-    {
+    "060":{
         "versesBreakPoints": [
             "3731",
             "11917",
@@ -5481,7 +5481,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/060.mp3"
     },
-    {
+    "061":{
         "versesBreakPoints": [
             "3820",
             "14295",
@@ -5498,7 +5498,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/061.mp3"
     },
-    {
+    "062":{
         "versesBreakPoints": [
             "3902",
             "22778",
@@ -5515,7 +5515,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/062.mp3"
     },
-    {
+    "063":{
         "versesBreakPoints": [
             "3800",
             "11403",
@@ -5573,7 +5573,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/063.mp3"
     },
-    {
+    "064":{
         "versesBreakPoints": [
             "3742",
             "14553",
@@ -5597,7 +5597,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/064.mp3"
     },
-    {
+    "065":{
         "versesBreakPoints": [
             "3782",
             "41663",
@@ -5615,7 +5615,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/065.mp3"
     },
-    {
+    "066":{
         "versesBreakPoints": [
             "3789",
             "15378",
@@ -5633,7 +5633,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/066.mp3"
     },
-    {
+    "067":{
         "versesBreakPoints": [
             "3837",
             "11923",
@@ -5669,7 +5669,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/067.mp3"
     },
-    {
+    "068":{
         "versesBreakPoints": [
             "3771",
             "8222",
@@ -5727,7 +5727,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/068.mp3"
     },
-    {
+    "069":{
         "versesBreakPoints": [
             "3462",
             "15902",
@@ -5761,7 +5761,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/069.mp3"
     },
-    {
+    "070":{
         "versesBreakPoints": [
             "3783",
             "15303",
@@ -5795,7 +5795,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/070.mp3"
     },
-    {
+    "071":{
         "versesBreakPoints": [
             "3768",
             "6611",
@@ -5821,7 +5821,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/071.mp3"
     },
-    {
+    "072":{
         "versesBreakPoints": [
             "3390",
             "10888",
@@ -5871,7 +5871,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/072.mp3"
     },
-    {
+    "073":{
         "versesBreakPoints": [
             "3522",
             "6649",
@@ -5933,7 +5933,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/073.mp3"
     },
-    {
+    "074":{
         "versesBreakPoints": [
             "3659",
             "7974",
@@ -5979,7 +5979,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/074.mp3"
     },
-    {
+    "075":{
         "versesBreakPoints": [
             "3676",
             "11986",
@@ -6016,7 +6016,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/075.mp3"
     },
-    {
+    "076":{
         "versesBreakPoints": [
             "3637",
             "5902",
@@ -6072,7 +6072,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/076.mp3"
     },
-    {
+    "077":{
         "versesBreakPoints": [
             "3630",
             "7348",
@@ -6118,7 +6118,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/077.mp3"
     },
-    {
+    "078":{
         "versesBreakPoints": [
             "3438",
             "6377",
@@ -6170,7 +6170,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/078.mp3"
     },
-    {
+    "079":{
         "versesBreakPoints": [
             "3521",
             "5514",
@@ -6218,7 +6218,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/079.mp3"
     },
-    {
+    "080":{
         "versesBreakPoints": [
             "3623",
             "5806",
@@ -6253,7 +6253,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/080.mp3"
     },
-    {
+    "081":{
         "versesBreakPoints": [
             "3436",
             "5624",
@@ -6295,7 +6295,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/081.mp3"
     },
-    {
+    "082":{
         "versesBreakPoints": [
             "3622",
             "6746",
@@ -6320,7 +6320,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/082.mp3"
     },
-    {
+    "083":{
         "versesBreakPoints": [
             "3626",
             "8043",
@@ -6351,7 +6351,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/083.mp3"
     },
-    {
+    "084":{
         "versesBreakPoints": [
             "3481",
             "6794",
@@ -6379,7 +6379,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/084.mp3"
     },
-    {
+    "085":{
         "versesBreakPoints": [
             "3662",
             "7351",
@@ -6402,7 +6402,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/085.mp3"
     },
-    {
+    "086":{
         "versesBreakPoints": [
             "3675",
             "7177",
@@ -6434,7 +6434,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/086.mp3"
     },
-    {
+    "087":{
         "versesBreakPoints": [
             "3610",
             "6298",
@@ -6459,7 +6459,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/087.mp3"
     },
-    {
+    "088":{
         "versesBreakPoints": [
             "3662",
             "6914",
@@ -6485,7 +6485,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/088.mp3"
     },
-    {
+    "089":{
         "versesBreakPoints": [
             "3623",
             "4700",
@@ -6521,7 +6521,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/089.mp3"
     },
-    {
+    "090":{
         "versesBreakPoints": [
             "3549",
             "5478",
@@ -6542,7 +6542,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/090.mp3"
     },
-    {
+    "091":{
         "versesBreakPoints": [
             "3661",
             "6194",
@@ -6569,7 +6569,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/091.mp3"
     },
-    {
+    "092":{
         "versesBreakPoints": [
             "3609",
             "6043",
@@ -6583,7 +6583,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/092.mp3"
     },
-    {
+    "093":{
         "versesBreakPoints": [
             "3567",
             "4779",
@@ -6600,7 +6600,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/093.mp3"
     },
-    {
+    "094":{
         "versesBreakPoints": [
             "3690",
             "5901",
@@ -6614,7 +6614,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/094.mp3"
     },
-    {
+    "095":{
         "versesBreakPoints": [
             "3620",
             "7370",
@@ -6639,7 +6639,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/095.mp3"
     },
-    {
+    "096":{
         "versesBreakPoints": [
             "3648",
             "8657",
@@ -6650,7 +6650,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/096.mp3"
     },
-    {
+    "097":{
         "versesBreakPoints": [
             "3619",
             "14281",
@@ -6664,7 +6664,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/097.mp3"
     },
-    {
+    "098":{
         "versesBreakPoints": [
             "3747",
             "8249",
@@ -6678,7 +6678,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/098.mp3"
     },
-    {
+    "099":{
         "versesBreakPoints": [
             "3733",
             "5609",
@@ -6695,7 +6695,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/099.mp3"
     },
-    {
+    "100":{
         "versesBreakPoints": [
             "3756",
             "6379",
@@ -6709,7 +6709,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/100.mp3"
     },
-    {
+    "101":{
         "versesBreakPoints": [
             "3695",
             "6383",
@@ -6726,7 +6726,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/101.mp3"
     },
-    {
+    "102":{
         "versesBreakPoints": [
             "3798",
             "7763",
@@ -6741,7 +6741,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/102.mp3"
     },
-    {
+    "103":{
         "versesBreakPoints": [
             "4052",
             "10053",
@@ -6752,7 +6752,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/103.mp3"
     },
-    {
+    "104":{
         "versesBreakPoints": [
             "3809",
             "7497",
@@ -6762,7 +6762,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/104.mp3"
     },
-    {
+    "105":{
         "versesBreakPoints": [
             "3751",
             "4892",
@@ -6771,7 +6771,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/105.mp3"
     },
-    {
+    "106":{
         "versesBreakPoints": [
             "3801",
             "7500",
@@ -6784,7 +6784,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/106.mp3"
     },
-    {
+    "107":{
         "versesBreakPoints": [
             "3643",
             "8429",
@@ -6793,7 +6793,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/107.mp3"
     },
-    {
+    "108":{
         "versesBreakPoints": [
             "3738",
             "7350",
@@ -6805,7 +6805,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/108.mp3"
     },
-    {
+    "109":{
         "versesBreakPoints": [
             "3732",
             "8856",
@@ -6814,7 +6814,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/109.mp3"
     },
-    {
+    "110":{
         "versesBreakPoints": [
             "3333",
             "14145",
@@ -6874,7 +6874,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/110.mp3"
     },
-    {
+    "111":{
         "versesBreakPoints": [
             "3862",
             "8818",
@@ -6885,7 +6885,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/111.mp3"
     },
-    {
+    "112":{
         "versesBreakPoints": [
             "4251",
             "7164",
@@ -6895,7 +6895,7 @@
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/112.mp3"
     },
-    {
+    "113":{
         "versesBreakPoints": [
             "4298",
             "7470",
@@ -6905,5 +6905,10 @@
             "25582"
         ],
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/113.mp3"
+    },
+    "114": {
+        "mp3":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/114.mp3"
     }
-]
+}
+
+export default Recitation
