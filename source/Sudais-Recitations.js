@@ -6907,6 +6907,15 @@ const Recitation = {
         "mp3": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/113.mp3"
     },
     "114": {
+        "versesBreakPoints" : [
+            "4132",
+"7568",
+"9604",
+"12931",
+"18986",
+"24198",
+"30172"
+    ],
         "mp3":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/114.mp3"
     }
 }
